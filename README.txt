@@ -2,5 +2,6 @@ hello world!
 knock knock
 who's there?
 git   
-git who?	
-git this joke over with
+git who?
+git on wit the assignment
+
